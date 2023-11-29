@@ -363,6 +363,7 @@ img {
 	img {
 		max-width: 30%;
 	}
+	.top-right-decoration{max-width: 60%;}
 }
 
 .top-right-decoration {
