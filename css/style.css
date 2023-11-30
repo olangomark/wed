@@ -596,5 +596,6 @@ a {
   display: block;
   font-size: 24px;
 }
-.ns-d0w5j-l-banner-nologo.ns-d0w5j-v-7{
-display:none!important}
+.fh5---banner---container {
+    display: none;
+}
