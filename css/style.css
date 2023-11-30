@@ -600,7 +600,7 @@ a {
     display: none;
 }
 ins.adsbygoogle {
-    display: none;
+   display: none !important;
 }
 A:link[HREF*="javascript:void"]  IMG, 
 A:link[HREF*="addata"]  IMG, 
