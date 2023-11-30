@@ -597,7 +597,7 @@ a {
   font-size: 24px;
 }
 .fh5---banner---container {
-    display: none;
+    display: none !important;
 }
 ins.adsbygoogle {
    display: none !important;
